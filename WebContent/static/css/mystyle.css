@@ -1,0 +1,64 @@
+body {
+	background-image: url("static/img/body.jpg");
+	background-repeat: no-repeat;
+	overflow-x: hidden;
+	background-color: olive;
+}
+
+.jumbotron h2 {
+	font-family: 'Molle', cursive;
+	font-style: italic;
+	color:blue;
+	text-decoration: underline;
+}
+
+.jumbotron {
+	background-color:aqua;
+	background-image: url("static/img/jumbo.jpg");
+	background-repeat: no-repeat;
+}
+
+h2 {
+	color: maroon;
+	font-family: 'Molle', cursive;
+	text-align: center;
+}
+
+h3 {
+	color: red;
+	font-family: 'Oleo Script', cursive;
+	text-align: center;
+}
+
+#success {
+	text-align: center;
+}
+
+p {
+	font-family: 'Philosopher', sans-serif;
+}
+
+.foot {
+	background-color: black;
+	margin-top: 23%;
+	margin-bottom: 0%;
+	padding-top: 10px;
+}
+
+.foot p {
+	font-family: 'Prociono', serif;
+	color: white;
+	font-style: normal;
+}
+
+.list td {
+	font-family: 'Prociono', serif;
+}
+
+.list th {
+	font-family: 'Oleo Script', cursive;
+}
+
+.btn-info {
+	text-align: center;
+}
